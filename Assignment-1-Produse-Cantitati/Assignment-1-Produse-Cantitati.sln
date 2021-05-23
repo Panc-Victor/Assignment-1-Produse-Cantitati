@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-1-Produse-Cantitati", "Assignment-1-Produse-Cantitati\Assignment-1-Produse-Cantitati.csproj", "{16F4CCD7-61A0-465E-B526-32CD51208EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F4CCD7-61A0-465E-B526-32CD51208EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F4CCD7-61A0-465E-B526-32CD51208EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F4CCD7-61A0-465E-B526-32CD51208EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F4CCD7-61A0-465E-B526-32CD51208EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624BD788-B507-46EE-8B8A-64C55323CE83}
+	EndGlobalSection
+EndGlobal
